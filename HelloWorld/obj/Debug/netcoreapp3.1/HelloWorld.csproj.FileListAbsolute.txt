@@ -1,0 +1,12 @@
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/timbosan/Desktop/codelouisville/c#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
