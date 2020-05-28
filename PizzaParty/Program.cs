@@ -15,8 +15,8 @@ namespace PizzaParty
 
             if (ordered == "Y")
             {
-                Console.Write("Awesome! What time do you want to pick it up?  ");
-                string time = Console.ReadLine();
+                Console.Write("Awesome! I'll have you pick a time slot for Friday ");
+                //string time = Console.ReadLine();
             }
 
             if (ordered == "N");
@@ -27,11 +27,8 @@ namespace PizzaParty
         
             
         }
-    }
-}
-
-/*
-public static void list( ){
+    /*public static void list( )
+        {
             string Userchoice;
             string[] TimeSlots = {"1:00 - 2:00 ", "2:00 - 3:00", "3:00 - 4:00", "4:00 - 5:00"};
             for(int i = 0; i < TimeSlots.Length; i++)
@@ -43,6 +40,13 @@ public static void list( ){
             Userchoice = Console.ReadLine();
             int UserChoiceasNUM = Int32.Parse(Userchoice);
             Console.WriteLine("you chose the time slot: " + TimeSlots[UserChoiceasNUM -1].ToString());
-        }
-    */
+        }*/
+    
+    
+    }
+}
+
+
+
+    
     
