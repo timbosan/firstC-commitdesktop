@@ -1,3 +1,5 @@
+ /*logic for selecting a timeslot*/
+ 
  public static void list( )
         {
             string Userchoice;
